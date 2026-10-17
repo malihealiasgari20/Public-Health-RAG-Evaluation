@@ -78,7 +78,7 @@ This distinction is important and should be preserved when presenting the projec
 
 The figure below summarizes top-three acceptable-paragraph retrieval (**Hit@3**) across the five retrievers and three query formulations.
 
-![Hit@3 by retriever and query formulation](figures/figure1_hit3_by_retriever.png)
+![Hit@3 by retriever and query formulation](figure1_hit3_by_retriever.png)
 
 *Figure 1. Top-three acceptable-paragraph retrieval (Hit@3) by retriever and query formulation, recreated from the manuscript’s Table 1. This comparison is retrieval-only; answer generation and human-rating results were conducted under the original hash retriever only.*
 
